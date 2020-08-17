@@ -1,0 +1,2 @@
+# raju
+const firebaseConfig = {   apiKey: "AIzaSyCQ7FwgubxxV3cS1DSRDWddU_86z08DR8g",   authDomain: "facebookreport45.firebaseapp.com",   databaseURL: "https://facebookreport45.firebaseio.com",   projectId: "facebookreport45",   storageBucket: "facebookreport45.appspot.com",   messagingSenderId: "744549407791",   appId: "1:744549407791:web:cec77fa1ea28868471bada",   measurementId: "G-04HK932CTG" };
